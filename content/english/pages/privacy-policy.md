@@ -1,6 +1,5 @@
 ---
-title: "Privacy"
-meta_title: ""
+title: "Privacy Policy"
 description: "Privacy Policy"
 ---
 
@@ -153,7 +152,6 @@ This privacy policy is current as of the effective date which appears at the top
 
 If you have any questions or concerns regarding privacy matters, please contact us at:
 
-Forward Medical  
-Privacy Officer  
-Email: privacy@forwardmed.co
+Forward Medical Privacy Officer  
+privacy@forwardmed.co
 
