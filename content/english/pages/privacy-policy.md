@@ -52,6 +52,8 @@ We only use your Personal Information to provide the Service to you, except with
 
 We only share your Personal Information for legitimate business purposes. With respect to all other Subscriber Data, we may share such data as permitted in our Agreements with you, with your instructions in connection with the Service, with third parties whose services or products we believe may interest you, and with our third-party service providers or business partners who help us deliver or improve the Service or who perform services on our behalf.
 
+No mobile opt-in data will be shared with third parties or affiliates.
+
 ### Privacy for Customers
 
 This section applies to the information we may collect and/or process about our Subscribers’ Customers as a “data processor”, “business associate” or such similar term as defined by applicable privacy laws or regulations. The Service is intended for use by our Subscribers and their authorized users. As a result, for the Personal Information we collect and process about Customers through the Service, we act as a data processor on behalf of our Subscribers.
@@ -75,6 +77,8 @@ Subscriber Data is not covered by this Privacy Policy, but rather Subscriber Dat
 
 We consider your Personal Information to be strictly confidential. We collect and process your Personal Information solely on behalf of our Subscribers, and in accordance with our Agreements with Subscribers.
 
+No mobile opt-in data will be shared with third parties or affiliates.
+
 ### Privacy for Visitors
 
 This section applies to information that we may collect and process when you visit the Website, when you engage with us at events or in connection with our marketing, recruitment, or general business activities, or that you voluntarily provide to us in connection with general business interactions with us.
@@ -93,6 +97,9 @@ We use the information we collect through the Website and in connection with eve
 
 We never sell your Personal Information. We may partner with third-party advertising networks, exchanges, and social media platforms to manage and serve our advertising on other sites, and we may share Personal Information of Visitors with them for this purpose.
 
+If any mobile opt-in data is collected, will not be shared with third parties or affiliates.
+
+
 ### General Information
 
 #### How We Use and Share Information
@@ -105,6 +112,7 @@ We may also use or share your Personal Information with third parties from time 
 - We may use your Personal Information for purposes that we make known to you at the time of collection of such information and upon your consent.
 - We reserve the right to transfer any information we collect in the event we sell or transfer all or a portion of our business or assets.
 - We may also use or share information with others in an aggregated or otherwise anonymized form that does not identify you directly as an individual.
+- No mobile opt-in data will be shared with third parties or affiliates.
 
 #### Cookies and Other Tracking Technologies
 
